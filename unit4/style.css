@@ -1,0 +1,14 @@
+body { background-color:#eae9e9;
+       color:#2b2a2a;
+       font-family:Arial, Tahoma, sans-serif; text-align: left; margin: 1em;
+       margin-top: 0px;
+       margin-bottom: 0px;
+       margin-right: 80px;
+       margin-left: 80px;}
+header { background-color:#b8b8b8;   
+       color:#2b2a2a;
+       font-family:Arial, "Cambria", serif; text-align: center;}
+h2  { background-color: #b8b8b8;}
+
+footer { font-style: italic;
+         font-size: .95em;}
