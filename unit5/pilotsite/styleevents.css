@@ -12,7 +12,9 @@ header { background-color:#F8F8FF;
 	padding: 0px;
        font-family:Arial, "Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 1.75em; text-align: center;
 }
-
+H1 {   
+text-align: center;
+}
 H4 {   
 padding: 0px;
 margin-top: 0px;
