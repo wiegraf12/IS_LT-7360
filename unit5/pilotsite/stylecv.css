@@ -92,6 +92,8 @@ margin-left: 25px;
 .navigation-bar a:hover { color: #c9c9c9; 
 }
 
+.navigation-bar a:visited { color: #808080; 
+}
 
 footer { font-style: italic;
          font-size: .95em;
