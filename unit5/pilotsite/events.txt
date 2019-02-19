@@ -25,12 +25,10 @@
 <main>
 <hr>
 <br>
-<center>
 <h1>Events</h1>
-</center>
 <table style="width:100%">
   <tr>
-    <th>DESCRIPTION</th>
+    <th>EVENT</th>
     <th>LOCATION</th> 
     <th>DATE</th>
   </tr>
@@ -55,8 +53,8 @@
 </main>
 <br>
 <hr>
-</body>
-<footer><center>
-<h4> Email: <a href="mailto:ianewell@yahoo.com">Ian Ewell</a><i> Last Edited on: 2/20/2018</i></h4></center>
+<footer>
+<h4> Email: <a href="mailto:ianewell@yahoo.com">Ian Ewell</a><i> Last Edited on: 2/20/2018</i></h4>
 </footer>
+</body>
 </html>
