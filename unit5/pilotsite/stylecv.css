@@ -95,6 +95,12 @@ margin-left: 25px;
 .navigation-bar a:visited { color: #808080; 
 }
 
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
 footer { font-style: italic;
          font-size: .95em;
 }
