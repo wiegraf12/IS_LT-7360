@@ -13,6 +13,9 @@ header { background-color:#fbfbfb;
        font-family:Arial, "Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 1.75em; text-align: center;
 }
 
+P {  text-align: center; 
+}
+
 H4 {   
 padding: 0px;
 margin-top: 0px;
