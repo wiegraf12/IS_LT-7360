@@ -81,7 +81,8 @@ margin-left: 150px;
 }
 
 
-footer { font-style: italic;
+footer { display: block;
+	font-style: italic;
          font-size: .95em;
-	       margin-left: 250px;
+	 margin-left: 250px;
 }
