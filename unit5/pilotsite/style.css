@@ -21,19 +21,15 @@ img {
 P {  text-align: center; 
 }
 
+H2 {   
+text-align: center; 
+}
 H4 {   
 padding: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
-margin-right: 0px;
-margin-left: 25px;
-}
-H5 {   
-padding: 0px;
-margin-top: 0px;
-margin-bottom: 0px;
-margin-right: 0px;
-margin-left: 50px;
+margin-right: 150px;
+margin-left: 150px;
 }
 
 .navigation-bar   {
