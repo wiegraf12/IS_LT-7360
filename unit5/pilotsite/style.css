@@ -23,8 +23,14 @@ P {  text-align: center;
 
 H2 {   
 text-align: center; 
+padding: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 150px;
+margin-left: 150px;text-align: center; 
 }
-H4 {   
+H4 {
+text-align: center; 
 padding: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
