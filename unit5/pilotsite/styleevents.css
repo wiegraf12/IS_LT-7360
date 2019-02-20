@@ -51,7 +51,7 @@ margin-left: 50px;
   display:inline;
 }
 
-.navigation-bar li a    {background-color: ##F8F8FF;
+.navigation-bar li a    {
 	color: #2b2a2a;
 	font-size: 22px;
 	text-transform: uppercase;
