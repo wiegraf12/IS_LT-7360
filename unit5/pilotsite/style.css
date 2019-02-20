@@ -80,10 +80,11 @@ margin-left: 50px;
 .navigation-bar a:hover { color: #c9c9c9; 
 }
 
-img {
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
 
 footer { font-style: italic;
