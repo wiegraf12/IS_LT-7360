@@ -82,9 +82,8 @@ margin-left: 50px;
 
 img {
   display: block;
-  margin-left: 250;
-  margin-right: 250;
-	style="width:50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer { font-style: italic;
