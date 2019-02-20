@@ -91,6 +91,5 @@ margin-left: 50px;
 
 footer { font-style: italic;
          font-size: .95em;
-	margin-right: 150px;
-        margin-left: 150px;
+	text-align:center;
 }
