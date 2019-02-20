@@ -27,16 +27,9 @@ padding: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
 margin-right: 150px;
-margin-left: 150px;text-align: center; 
-}
-H4 {
-text-align: center; 
-padding: 0px;
-margin-top: 0px;
-margin-bottom: 0px;
-margin-right: 150px;
 margin-left: 150px;
 }
+
 
 .navigation-bar   {
 	background-color: #F8F8FF;
@@ -90,6 +83,6 @@ margin-left: 150px;
 
 footer { font-style: italic;
          font-size: .95em;
-	margin-right: 150px;
-       margin-left: 150px;
+	margin-right: 200px;
+       margin-left: 200px;
 }
