@@ -71,14 +71,15 @@ margin-left: 150px;
 .navigation-bar a:link { color: #2b2a2a; 
 } 
 
-.navigation-bar a:visited { color: #c9c9c9; 
+.navigation-bar a:visited { color: #c9c9c9;
+}
+
+.navigation-bar a:hover { color: #c9c9c9; 
 }
 
 .navigation-bar a:active { color: #f9f9f9; 
 }
 
-.navigation-bar a:hover { color: #c9c9c9; 
-}
 
 
 footer { font-style: italic;
