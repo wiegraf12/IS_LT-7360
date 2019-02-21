@@ -84,7 +84,10 @@ table {
   width: 75%;
 }
 
-th {
+td {
+  height: 50px;
+}
+tr {
   height: 50px;
 }
 
