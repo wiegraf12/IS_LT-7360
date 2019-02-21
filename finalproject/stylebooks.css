@@ -80,15 +80,12 @@ margin-left: 50px;
 .navigation-bar a:hover { color: #c9c9c9; 
 }
 
-#myTable tr td:first-child {
-  width: 500px;
-height: 225px;
-padding: 5px;
+table {
+  width: 75%;
 }
 
-#myTable tr td:nth-child(2) {
-  width: 300px;
-height: 225px;
+th {
+  height: 50px;
 }
 
 footer { font-style: italic;
