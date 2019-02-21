@@ -26,18 +26,21 @@
 <hr>
 <br>
 <h1>Books</h1>
-<table style="width:100%">
+<br>
+<table style width="75%">
     <tr>
-    <td>Microsoft Access 2019: Essentials</td>
+    <td><h3>Microsoft Access 2019: Essentials</h3> <h5> This in-depth courseware will equip students with a thorough knowledge and understanding of the most relevant features and uses of Access 2016.
+Students will be engaged with hands on learning as they apply learned concepts to create tables, work with forms, query databases, and more! </h5></td>
     <td><a href="http://www.lablearning.com/Access-2016.html?sc=37&category=69876" target="_blank"><img src="AC19es.jpg"</a></td>
       </tr>
    <tr>
-     <td>Microsoft Access 2019: Level 3</td>
-    <td><a href="http://www.lablearning.com/Access-2016.html?sc=37&category=69876" target="_blank"><img src="AC19lv3.jpg"</a></td>
+     <td><h3>Microsoft Access 2019: Level 3 </h3><h5>Provides thorough advanced training of Access 2016. This text provides more complex skills than those presented in our Level 1 and Level 2 books, but with the same proven instructional design.
+      This is an advanced course that will challenge students. Topics introduced include complex forms, calculated controls, complex reports, subreports, database customization, splitting databases, customizing the user interface, and more.</h5></td>
+    <td><a href="http://www.lablearning.com/ms-access-2016-level-3.html?sc=37&category=69876" target="_blank"><img src="Ac19lv3.jpg"</a></td>
     </tr>
  <tr>
-      <td>Building a Foundation with Microsoft Office 2019</td>
-    <td><a href="http://www.lablearning.com/Access-2016.html?sc=37&category=69876" target="_blank"><img src="bafound19.jpg"</a></td>
+      <td><h3>Building a Foundation with Microsoft Office 2019</h3><h5></h5></td>
+    <td><a href="http://www.lablearning.com/BAF-Office2016.html?sc=37&category=69876" target="_blank"><img src="bafound19.jpg"</a></td>
     </tr>
 </table>
 </main>
