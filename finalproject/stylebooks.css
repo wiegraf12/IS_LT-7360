@@ -12,24 +12,39 @@ header { background-color:#F8F8FF;
 	padding: 0px;
        font-family:Arial, "Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 1.75em; text-align: center;
 }
-H1 {   
-text-align: center;
+
+H1 {
+margin-bottom: 25px;
 margin-right: 150px;
-       margin-left: 150px;
+margin-left: 150px;
+text-align: center;
 }
-H4 {   
+
+H3 {   
+
+padding: 0px;
+margin-top: 0px;
+margin-bottom: 20px;
+margin-right: 50px;
+margin-left: 75px;
+}
+
+H4 {
+text-align: center;   
 padding: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
 margin-right: 0px;
 margin-left: 25px;
 }
-H5 {   
+
+H5 { 
+  
 padding: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
-margin-right: 0px;
-margin-left: 50px;
+margin-right:50px;
+margin-left: 100px;
 }
 
 .navigation-bar   {
@@ -64,6 +79,7 @@ margin-left: 50px;
 	margin-right: 16px;
 }
 
+
 .navigation-bar li:first-child {
 	margin-left:20px;
 }
@@ -74,24 +90,37 @@ margin-left: 50px;
 .navigation-bar a:visited { color: #c9c9c9; 
 }
 
-.navigation-bar a:active { color: #F8F8FF; 
+.navigation-bar a:active { color: #000000; 
 }
 
-.navigation-bar a:hover { color: #c9c9c9; 
+.navigation-bar a:hover { color: #a9a9a9; 
 }
 
 table {
-  width: 75%;
+width: 85%;
+margin-right: 25px;
+
+}
+Table tr {
+padding: 25px;
+margin-right: 25px;
+margin-bottom: 50px;
 }
 
-td {
-  height: 50px;
-}
-tr {
-  height: 50px;
+Table tr td:first-child {
+padding: 25px;
+margin-right: 25px;
+margin-bottom: 50px;
 }
 
-footer { font-style: italic;
-         font-size: .95em;
-	text-align:center;
+#myTable tr td:nth-child(2) {
+padding: 25px;
+margin-right: 5px;
+margin-bottom: 50px;
+}
+
+footer { 
+text-align:center;
+font-style: italic;
+font-size: .95em;	
 }
