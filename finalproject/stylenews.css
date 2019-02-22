@@ -30,6 +30,7 @@ color: #A9A9A9;
 .navigation-bar ul   {
 	padding: 0px;
 	margin: 0px;
+  text-align:center;
 }
 
 .navigation-bar li    {
@@ -42,8 +43,7 @@ color: #A9A9A9;
 }
 
 .navigation-bar li a    {
-	color: black;
-	background-color: #F8F8FF;
+	color: #2b2a2a;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -73,14 +73,15 @@ color: #A9A9A9;
   color: #D3D3D3;
 }
 
-#Table tr {font-size: 12px;
+Table tr {
 	text-transform: uppercase;
+	padding-bottom: 1em;
 	
-
 }
-#Table td {font-size: 10px;
-	color:#2b2a2a;
 	
+Table td {
+	padding-bottom: 1em;
+	padding-right: 1em;
 }
 
 footer { font-style: italic;
