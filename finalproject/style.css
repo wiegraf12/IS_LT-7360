@@ -68,18 +68,21 @@ margin-left: 150px;
 	margin-left:20px;
 }
 
-.navigation-bar a:link { color: #2b2a2a; 
-} 
-
-.navigation-bar a:visited { color: #c9c9c9;
+a:link {
+  color: green;
 }
 
-.navigation-bar a:hover { color: #g0g0g9; 
+a:visited {
+  color: green;
 }
 
-.navigation-bar a:active { color: #000fff; 
+a:hover {
+  color: red;
 }
 
+a:active {
+  color: yellow;
+}
 
 
 footer { font-style: italic;
