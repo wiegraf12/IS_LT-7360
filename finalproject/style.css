@@ -18,7 +18,9 @@ img {
     margin: 0 auto;
 }
 
-P {  text-align: center; 
+P {  text-align: center;
+margin-right: 25px;
+margin-left: 25px;
 }
 
 H2 {   
