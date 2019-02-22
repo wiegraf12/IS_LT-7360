@@ -69,19 +69,19 @@ margin-left: 150px;
 }
 
 .navigation-bar a:link {
-  color: blue;
+  color: #000000;
 }
 
 .navigation-bar a:visited {
-  color: green;
+  color: #A9A9A9;
 }
 
 .navigation-bar a:hover {
-  color: red;
+  color: #DCDCDC;
 }
 
 .navigation-bar a:active {
-  color: yellow;
+  color: #D3D3D3;
 }
 
 
