@@ -75,13 +75,13 @@ color: #A9A9A9;
 
 #Table tr {font-size: 12px;
 	text-transform: uppercase;
-	padding-bottom: 1em;
+	margin-right: 150px;
+       margin-left: 150px;
 
 }
 #Table td {font-size: 10px;
 	color:#2b2a2a;
-	margin-right: 250px;
-       margin-left: 250px;
+	
 }
 
 footer { font-style: italic;
