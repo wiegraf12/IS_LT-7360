@@ -84,7 +84,7 @@ text-align:center;
 }
 #Table td {font-size: 10px;
 	color:#2b2a2a;
-	align: center;
+	horizontal-align: center;
 }
 
 footer { font-style: italic;
