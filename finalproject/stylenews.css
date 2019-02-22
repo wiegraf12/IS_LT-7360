@@ -84,7 +84,8 @@ text-align:center;
 }
 #Table td {font-size: 10px;
 	color:#2b2a2a;
-	text-align:center;
+	margin-right: 150px;
+       margin-left: 150px;
 }
 
 footer { font-style: italic;
@@ -92,5 +93,3 @@ footer { font-style: italic;
 	text-align: center;
 }
 
-img { text-align:center;
-}
