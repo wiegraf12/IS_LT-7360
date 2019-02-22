@@ -88,16 +88,20 @@ margin-left: 25px;
 	margin-left:20px;
 }
 
-.navigation-bar a:link { color: #2b2a2a; 
-} 
-
-.navigation-bar a:visited { color: #DCDCDC; 
-} 
-
-.navigation-bar a:hover { color: #c9c9c9; 
+.navigation-bar a:link {
+  color: #000000;
 }
 
-.navigation-bar a:visited { color: #808080; 
+.navigation-bar a:visited {
+  color: #A9A9A9;
+}
+
+.navigation-bar a:hover {
+  color: #DCDCDC;
+}
+
+.navigation-bar a:active {
+  color: #D3D3D3;
 }
 
 img.center {
