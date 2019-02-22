@@ -84,10 +84,13 @@ text-align:center;
 }
 #Table td {font-size: 10px;
 	color:#2b2a2a;
-	horizontal-align: center;
+	text-align:center;
 }
 
 footer { font-style: italic;
          font-size: .95em;
 	text-align: center;
+}
+
+img { text-align:center;
 }
