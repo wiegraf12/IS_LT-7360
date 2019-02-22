@@ -13,20 +13,13 @@ header { background-color:#F8F8FF;
        font-family:Arial, "Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 1.75em; text-align: center;
 }
 
-H3 {   
-padding: 0px;
-margin-top: 5px;
-margin-bottom: 50px;
-margin-right: 25px;
-margin-left: 25px;
-text-align: center;
-}
+
 H5 {   
 padding: 0px;
-margin-top: 5px;
-margin-bottom: 50px;
+margin-top: 25px;
+margin-bottom: 25px;
 margin-right: 25px;
-margin-left: 75px;
+margin-left: 125px;
 }
 
 .navigation-bar   {
