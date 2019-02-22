@@ -20,7 +20,7 @@ margin-left: 150px;
 text-align: center;
 }
 
-H3 {   
+H5 {   
 padding: 0px;
 margin-top: 0px;
 margin-bottom: 15px;
@@ -37,13 +37,6 @@ margin-right: 0px;
 margin-left: 25px;
 }
 
-H5 { 
-padding: 0px;
-margin-top: 0px;
-margin-bottom: 0px;
-margin-right:50px;
-margin-left: 100px;
-}
 
 .navigation-bar   {
 	background-color: #F8F8FF;
