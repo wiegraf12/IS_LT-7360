@@ -68,19 +68,19 @@ margin-left: 150px;
 	margin-left:20px;
 }
 
-.navigation-bar li a:link {
+.navigation-bar a:link {
   color: green;
 }
 
-.navigation-bar li a:visited {
+.navigation-bar a:visited {
   color: green;
 }
 
-.navigation-bar li a:hover {
+.navigation-bar a:hover {
   color: red;
 }
 
-.navigation-bar li a:active {
+.navigation-bar a:active {
   color: yellow;
 }
 
