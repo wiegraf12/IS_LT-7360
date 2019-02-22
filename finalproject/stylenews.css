@@ -18,10 +18,7 @@ H3 {
 padding: 0px;
 margin-top: 75px;
 margin-bottom: 25px;
-margin-right: 25px;
-margin-left: 205px;
 color: #A9A9A9;
-text-align:center;
 }
 
 .navigation-bar   {
@@ -33,7 +30,6 @@ text-align:center;
 .navigation-bar ul   {
 	padding: 0px;
 	margin: 0px;
-  text-align:center;
 }
 
 .navigation-bar li    {
@@ -84,8 +80,8 @@ text-align:center;
 }
 #Table td {font-size: 10px;
 	color:#2b2a2a;
-	margin-right: 150px;
-       margin-left: 150px;
+	margin-right: 250px;
+       margin-left: 250px;
 }
 
 footer { font-style: italic;
