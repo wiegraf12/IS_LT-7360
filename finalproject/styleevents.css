@@ -11,6 +11,8 @@ header { background-color:#F8F8FF;
        color:#c9c9c9;;
 	padding: 0px;
        font-family:Arial, "Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 1.75em; text-align: center;
+}
+
 H1 {
 margin-bottom: 25px;
 margin-right: 150px;
@@ -19,11 +21,10 @@ text-align: center;
 }
 
 H3 {   
-
 padding: 0px;
 margin-top: 0px;
 margin-bottom: 20px;
-margin-right: 50px;
+margin-right: 75px;
 margin-left: 75px;
 }
 
@@ -37,7 +38,6 @@ margin-left: 25px;
 }
 
 H5 { 
-  
 padding: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
@@ -97,13 +97,15 @@ margin-left: 100px;
   color: #D3D3D3;
 }
 
-#Table tr {
+Table tr {
 	text-transform: uppercase;
 	padding-bottom: 1em;
+	
 }
 	
-#Table td {
+Table td {
 	padding-bottom: 1em;
+	padding-right: 20em;
 }
 
 footer { font-style: italic;
