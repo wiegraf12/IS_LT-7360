@@ -15,16 +15,16 @@ header { background-color:#F8F8FF;
 
 H3 {   
 padding: 0px;
-margin-top: 25px;
-margin-bottom: 25px;
+margin-top: 50px;
+margin-bottom: 50px;
 margin-right: 25px;
 margin-left: 25px;
 text-align: center;
 }
 H5 {   
 padding: 0px;
-margin-top: 25px;
-margin-bottom: 25px;
+margin-top: 50px;
+margin-bottom: 50px;
 margin-right: 25px;
 margin-left: 100px;
 }
@@ -95,4 +95,5 @@ margin-left: 100px;
 
 footer { font-style: italic;
          font-size: .95em;
+	text-align: center;
 }
