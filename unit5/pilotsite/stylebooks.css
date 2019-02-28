@@ -77,8 +77,9 @@ margin-left: 50px;
   color: #DCDCDC;
 }
 
-.navigation-bar a:active {
-  color: #D3D3D3;
+.navigation-bar ul li a.active-page
+{
+color: #000000;
 }
 
 #myTable tr td:first-child {
