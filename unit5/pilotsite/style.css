@@ -64,7 +64,7 @@ margin-left: 150px;
 	margin-right: 16px;
 }
 
-.active, .navigation-bar {
+a:active {
   color: #D3D3D3;
 }
 
