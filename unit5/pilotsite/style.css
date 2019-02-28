@@ -64,6 +64,10 @@ margin-left: 150px;
 	margin-right: 16px;
 }
 
+.active {
+  color: #D3D3D3;
+}
+
 .navigation-bar li:first-child {
 	margin-left:20px;
 }
@@ -80,9 +84,7 @@ margin-left: 150px;
   color: #DCDCDC;
 }
 
-.active {
-  color: #D3D3D3;
-}
+
 
 footer { font-style: italic;
 font-size: .95em;
