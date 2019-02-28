@@ -52,7 +52,8 @@ margin-left: 50px;
 }
 
 .navigation-bar li a    {
-	color: #2b2a2a;
+	color: black;
+	background-color: #F8F8FF;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -78,8 +79,9 @@ margin-left: 50px;
   color: #DCDCDC;
 }
 
-.navigation-bar a:active {
-  color: #D3D3D3;
+.navigation-bar ul li a.active-page
+{
+color: #000000;
 }
 
 #Table tr {font-size: 12px;
