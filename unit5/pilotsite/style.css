@@ -64,11 +64,6 @@ margin-left: 150px;
 	margin-right: 16px;
 }
 
-.navigation-bar ul li a.active-page
-{
-color: #ffffff;
-}
-
 .navigation-bar li:first-child {
 	margin-left:20px;
 }
@@ -85,7 +80,10 @@ color: #ffffff;
   color: #DCDCDC;
 }
 
-
+.navigation-bar ul li a.active-page
+{
+color: #ffffff;
+}
 
 footer { font-style: italic;
 font-size: .95em;
