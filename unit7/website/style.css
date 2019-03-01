@@ -9,7 +9,6 @@ body { background-color:#F8F8FF;
 
 header { background-color:#F8F8FF;
        color:#c9c9c9;
-	text-shadow: 2px 2px #ff0000;
 	padding: 0px;
        font-family:Arial, "Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 1.75em; text-align: center;
 }
@@ -20,6 +19,10 @@ img {
 }
 
 P {  text-align: center; 
+}
+
+H1 {
+	text-shadow: 2px 2px #ff0000;
 }
 
 H2 {   
